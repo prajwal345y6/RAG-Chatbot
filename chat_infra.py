@@ -21,9 +21,9 @@ from io import BytesIO
 app = Flask(__name__)
 
 # SharePoint Credentials
-SITE_URL = "https://myldev.sharepoint.com/sites/otptest"
-USERNAME = "Ramesh@myldev.onmicrosoft.com"
-PASSWORD = "Job28124"
+SITE_URL = ""
+USERNAME = ""
+PASSWORD = ""
 
 # FAISS Index Storage
 INDEX_FOLDER = "faiss_indices"
